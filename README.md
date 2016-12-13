@@ -1,2 +1,2 @@
 # SpinLocks
-Implements CLS, MCS, priorityCLH, Tas, TTAS and ALock
+Implements CLH, MCS, priorityCLH, Tas, TTAS and ALock
